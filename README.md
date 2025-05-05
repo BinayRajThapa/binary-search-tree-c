@@ -21,7 +21,7 @@ This repository contains a simple yet fundamental implementation of a **Binary S
 | **Insert Function** | ![Insert Function](./images/InsertFunction.jpg) |
 | **Search Function** | ![Search Function](./images/SearchFunction.jpg) |
 | **View in Ascending Order** | ![View in Ascending Order](./images/AscendingOrder.jpg) |
-| **View in Descinding Order** | ![View in Descinding Order](./images/DescindingOrder.jpg) |
+| **View in Descending Order** | ![View in Descending Order](./images/DescindingOrder.jpg) |
 | **Delete Function** | ![Delete Function](./images/DeleteFunction.jpg) |
 | **Exit Function** | ![Exit Function](./images/ExitFunction.jpg) |
 
